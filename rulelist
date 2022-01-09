@@ -2,6 +2,8 @@
 (.*\.||)(gov|12377|12315|talk.news.pts.org|creaders|zhuichaguoji|efcc.org|cyberpolice|aboluowang|tuidang|epochtimes|nytimes|dafahao|falundafa|minghui|falunaz|zhengjian|110.qq|mingjingnews|inmediahk|xinsheng|bannedbook|ntdtv|falungong|12321|secretchina|epochweekly|cn.rfi)\.(cn|com|org|net|club|net|fr|tw|hk|eu|info|me)
 BitTorrent protocol
 Private Tracker protocol
+Stratum protocol
+Stratum V2 protocol
 (.*.||)(gov|12377|12315|talk.news.pts.org|cread­ers|zhuich­aguoji|efcc.org|cy­ber­po­lice|abolu­owang|tu­idang|epochtimes|ny­times|zhengjian|110.qq|mingjingnews|in­medi­ahk|xin­sheng|banned­book|nt­dtv|12321|se­cretchina|epochweekly|cn.rfi).(cn|com|org|net|club|net|fr|tw|hk)
 (torrent|\.torrent|peer_id=|info_hash|get_peers|find_node|BitTorrent|announce_peer|announce\.php\?passkey=)
 (.?)(xunlei|sandai|Thunder|XLLiveUD)(.)
@@ -16,3 +18,4 @@ Private Tracker protocol
 (.*\.||)(taobao)\.(com)
 (.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
 (.*\.||)(rising|kingsoft|duba|xindubawukong|jinshanduba)\.(com|net|org)
+(.*\.||)(sigmapool|hashcity|2miners|solo-etc|nanopool|minergate|comining|give-me-coins|hiveon|arsmine|baikalmine|solopool|litecoinpool|mining-dutch|clona|viabtc|beepool|maxhash|bwpool|coinminerz|miningcore|multipools|uupool|minexmr|pandaminer|f2pool|sparkpool|antpool|poolin|slushpool|marathondh|pool.btc)\.(cn|com|org|net|club|net|fr|tw|hk|eu|info|me|io)
